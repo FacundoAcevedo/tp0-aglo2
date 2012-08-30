@@ -66,7 +66,6 @@ int comparar(int vector1[], int n1, int vector2[], int n2) {
 
 /* La funcion seleccion ordena un arreglo recibido, mediante
  * el algoritmo de seleccion. */
-void print_array(int vector[],int largo); //BORRAR
 
 void seleccion(int vector[], int n) {
    int pos_max, indice;
